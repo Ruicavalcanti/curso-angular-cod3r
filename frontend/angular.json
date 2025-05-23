@@ -52,7 +52,8 @@
                             "input": "public"
                         }],
                         "styles": [
-                            "src/styles.css"
+                          "@angular/material/prebuilt-themes/rose-red.css",
+                          "src/styles.css"
                         ],
                         "scripts": []
                     },
