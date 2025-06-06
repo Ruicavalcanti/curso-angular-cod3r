@@ -1,23 +1,29 @@
 {
-    "products": [{
-            "id": "1",
-            "name": "Caneta Bic",
-            "price": 8.89
-        },
-        {
-            "id": "2",
-            "name": "Notebook Mac Pro",
-            "price": 12000.89
-        },
-        {
-            "id": "3",
-            "name": "Sansumg S20+",
-            "price": 5000.89
-        },
-        {
-            "id": "2f08",
-            "name": "Geladeira",
-            "price": 1900.99
-        }
-    ]
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta Bic",
+      "price": 8.89
+    },
+    {
+      "id": "2",
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": "3",
+      "name": "Sansumg S20+",
+      "price": 5000.89
+    },
+    {
+      "id": "2f08",
+      "name": "Geladeira",
+      "price": 1900.99
+    },
+    {
+      "id": "cd9d",
+      "name": "veio do formulário",
+      "price": "9.99"
+    }
+  ]
 }

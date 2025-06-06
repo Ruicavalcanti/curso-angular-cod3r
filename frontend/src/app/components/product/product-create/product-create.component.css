@@ -1,0 +1,16 @@
+.form-card {
+    margin: 24px;
+    padding: 16px;
+}
+
+.product-form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.button-group {
+    display: flex;
+    gap: 16px;
+    margin: 16px 24px;
+}
